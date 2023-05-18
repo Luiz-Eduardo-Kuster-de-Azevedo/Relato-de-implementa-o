@@ -1,7 +1,4 @@
 
-@media only screen and (max-device-width: 900px) {
-/* .menu { width:100%; } */
-}
 body {
   margin: 20px;
   font-family: Arial, sans-serif;
@@ -42,4 +39,6 @@ footer {
   padding: 10px;
   text-align: center;
 }
-
+@media only screen and (max-device-width: 900px) {
+  /* .menu { width:100%; } */
+  }
